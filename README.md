@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Kedaraj
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;IoT+Developer;ESP32+%7C+Arduino+Developer;Full+Stack+Web+Developer;AI+%26+Computer+Vision+Enthusiast;Founder+of+Techraft+Studio" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;IoT+Developer;ESP32+%7C+Arduino+Developer;Full+Stack+Web+Developer;AI+%26+Computer+Vision+Enthusiast;Techraft+Studio" />
 
 <img src="https://komarev.com/ghpvc/?username=Kedaraj&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 
@@ -27,10 +27,6 @@
 🏢 Founder of **Techraft Studio**
 
 🌱 Currently Learning
-
-- MERN Stack
-- AI Automation
-- Cloud Computing
 - Advanced ESP32
 
 ---
@@ -168,11 +164,11 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="#">
+<a href="https://www.linkedin.com/in/kedaraj-holikatti/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="#">
+<a href="https://www.instagram.com/kedaraj___?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
 </a>
 
