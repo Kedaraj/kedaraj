@@ -1,116 +1,191 @@
-<h1 align="center">Hi 👋, I'm Kedaraj</h1>
+<div align="center">
 
-<h3 align="center">
-Computer Science Engineering Student | IoT Developer | Full Stack Developer | Founder of Techraft Studio
-</h3>
+# 👋 Hi, I'm Kedaraj
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Student;IoT+Developer;ESP32+%7C+Arduino+Developer;Full+Stack+Web+Developer;Building+Real+World+Projects" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;IoT+Developer;ESP32+%7C+Arduino+Developer;Full+Stack+Web+Developer;AI+%26+Computer+Vision+Enthusiast;Founder+of+Techraft+Studio" />
+
+<img src="https://komarev.com/ghpvc/?username=Kedaraj&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+</div>
 
 ---
 
-# 🚀 About Me
+<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-- 🎓 Computer Science Engineering Student
-- 💡 Passionate about IoT, AI, Robotics & Web Development
-- 🏢 Founder of **Techraft Studio**
-- 🌱 Currently learning **MERN Stack, AI, Computer Vision & Cloud**
+## 🚀 About Me
+
+🎓 Computer Science Engineering Student
+
+💡 Passionate about
+
+- IoT & Embedded Systems
+- Robotics
+- Artificial Intelligence
+- Computer Vision
+- Full Stack Development
+
+🏢 Founder of **Techraft Studio**
+
+🌱 Currently Learning
+
+- MERN Stack
+- AI Automation
+- Cloud Computing
+- Advanced ESP32
 
 ---
 
 # 💻 Tech Stack
 
-### Languages
+<p align="center">
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css,bootstrap,tailwind,nodejs,express,mongodb,git,github,vscode,arduino&perline=8"/>
 
-### Frontend
+</p>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+---
 
-### Backend
+# ⚡ Tools I Use
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+<p align="center">
 
-### Database
+<img src="https://skillicons.dev/icons?i=linux,figma,firebase,opencv,sqlite,postman,discord"/>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
-
-### IoT
-
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🌱 Smart Solar Grass Cutting Robot
-- Autonomous Navigation
-- Solar Tracking
-- ESP32 Control
-- Mobile App
+<table>
+<tr>
 
-## 💧 Smart Water Tank Monitoring
-- ESP32
-- Live Dashboard
-- Water Level Alerts
+<td width="50%">
 
-## 🤖 AI Attendance System
-- Face Recognition
-- TensorFlow Lite
-- ESP32 Camera
+## 🌱 Smart Grass Cutting Robot
 
-## 🔥 IoT Gas Leakage Detection
-- ESP32
-- MQ Sensor
-- OLED
-- Relay
-- Buzzer
+✔ ESP32
 
-## 🍽 Food Ordering Platform
-- WhatsApp Ordering
-- Admin Dashboard
-- Google Sheets Integration
+✔ Solar Tracking
+
+✔ Mobile Control
+
+✔ Autonomous Navigation
+
+</td>
+
+<td width="50%">
+
+## 💧 Water Tank Monitoring
+
+✔ ESP32
+
+✔ Web Dashboard
+
+✔ IoT Alerts
+
+✔ Live Monitoring
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+## 🤖 AI Attendance
+
+✔ Face Recognition
+
+✔ TensorFlow Lite
+
+✔ ESP32 Camera
+
+</td>
+
+<td>
+
+## 🔥 Gas Leakage System
+
+✔ ESP32
+
+✔ MQ Sensor
+
+✔ OLED
+
+✔ Relay
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-# 🎯 Current Focus
+# 🌟 Currently Working On
 
-- 🤖 Artificial Intelligence
-- 🌐 Full Stack Development
-- 📡 IoT Automation
-- ☁️ Cloud Deployment
+```text
+🚀 Smart Grass Cutting Robot
+███████████████░░░ 90%
 
----
+🌐 Food Ordering Platform
+█████████████░░░░░ 80%
 
-# 🌐 Connect With Me
+🤖 AI Automation
+██████████░░░░░░░ 65%
 
-🌍 Website: https://kedraj.me
-
-📧 Email: your@email.com
-
-📸 Instagram: @techraft_studio
-
-💼 LinkedIn: linkedin.com/in/yourname
+📡 IoT Projects
+█████████████████ 100%
+```
 
 ---
 
-# 💬 Quote
+# 🎯 What I Love
 
-> **"Building smart solutions with code and hardware."**
+⚡ Building Hardware
+
+🌐 Creating Websites
+
+🤖 AI Projects
+
+📡 IoT Systems
+
+🚀 Open Source
 
 ---
+
+# 🌍 Connect With Me
 
 <p align="center">
-⭐ Thanks for visiting my profile! ⭐
+
+<a href="https://kedraj.me">
+<img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome"/>
+</a>
+
+<a href="https://github.com/Kedaraj">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
+
 </p>
+
+---
+
+<div align="center">
+
+## 💬 Quote
+
+### *"Building smart solutions with code and hardware."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=120&section=footer"/>
+
+</div>
