@@ -24,7 +24,7 @@
 - Computer Vision
 - Full Stack Development
 
-🏢 Founder of **Techraft Studio**
+🏢 **Techraft Studio**
 
 🌱 Currently Learning
 - Advanced ESP32
